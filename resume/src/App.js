@@ -1,18 +1,26 @@
 import React, { Component } from 'react';
 import './App.css';
-import Header from "./Component/Header"
-import About from "./Component/About"
-import Contact from "./Component/Contact"
-import Footer from "./Component/Footer"
-import Portfolio from "./Component/Portfolio"
-import Resume from "./Component/Resume"
-import Testimonials from "./Component/Testimonials"
+import Header from "./Components/Header"
+import About from "./Components/About"
+import Contact from "./Components/Contact"
+import Footer from "./Components/Footer"
+import Portfolio from "./Components/Portfolio"
+import Resume from "./Components/Resume"
+import Testimonials from "./Components/Testimonials"
 
 
 class App extends Component {
   render() {
     return(
-      <div>My App</div>
+      <div className="App">
+        <Header />
+        <About />
+        <Resume />
+        <Portfolio />
+        <Testimonials />
+        <Contact />
+        <Footer />
+      </div>
     )
   }
 }
