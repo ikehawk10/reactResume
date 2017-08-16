@@ -1,0 +1,219 @@
+{
+	"main": {
+		"name": "Isaac Hawkins",
+		"occupation": "Front-end Developer",
+		"description": "I design and program websites and applications of all types.",
+		"image": "",
+		"bio": "Lorem ipsum dolor sit amet, at eripuit principes eum, usu falli maiestatis no, mel ut melius tractatos scribentur. Mea meis intellegam mediocritatem ne. Ea pro case interesset deterruisset, cum fuisset voluptua percipitur eu. Dicit legere delicata ad per, est no illum exerci constituto, eu mel legere detracto atomorum. Vidisse discere senserit ad qui. Eu per viderer repudiandae, eos paulo vulputate definiebas eu, an quando scriptorem mediocritatem mea.",
+		"email": "hawkins.isaac@gmail.com",
+		"phone": "325-200-2523",
+		"address": {
+			"street": "1000 Center Street",
+			"city": "Austin",
+			"state": "TX",
+			"zip": "78741"
+		},
+		"website": "http://ikehawkins.com",
+		"resumeDownload": "",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "http://facebook.com",
+				"className": "fa fa-facebook"
+
+			},
+			{
+				"name": "twitter",
+				"url": "http://twitter.com",
+				"className": "fa fa-twitter"
+			},
+			{
+				"name": "google-plus",
+				"url": "http://googleplus.com",
+				"className": "fa fa-google-plus"
+			},
+			{
+				"name": "linkedin",
+				"url": "http://linkedin.com",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "http://instagram.com",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "http://github.com",
+				"className": "fa fa-github"
+			},
+			{
+				"name": "skype",
+				"url": "http://skype.com",
+				"className": "fa fa-skype"
+			}
+		]
+	},
+	"resume": {
+		"education": [
+			{
+				"school": "University of Texas",
+				"degree": "Full Stack Coding Bootcamp",
+				"graduated": "May 2017",
+				"description": "Lorem ipsum dolor sit amet, at eripuit principes eum, usu falli maiestatis no, mel ut melius tractatos scribentur. Mea meis intellegam mediocritatem ne. Ea pro case interesset deterruisset, cum fuisset voluptua percipitur eu."
+			},
+			{
+				"school": "Dallas Baptist University",
+				"degree": "Higher Education Administration",
+				"graduated": "August 2012",
+				"description": "Lorem ipsum dolor sit amet, at eripuit principes eum, usu falli maiestatis no, mel ut melius tractatos scribentur. Mea meis intellegam mediocritatem ne. Ea pro case interesset deterruisset, cum fuisset voluptua percipitur eu."
+			}
+		],
+		"work": [
+			{
+				"company": "Hawkins Inc.",
+				"title": "Front-end Developer",
+				"years": "January 2017 - Present",
+				"description": "Lorem ipsum dolor sit amet, at eripuit principes eum, usu falli maiestatis no, mel ut melius tractatos scribentur. Mea meis intellegam mediocritatem ne. Ea pro case interesset deterruisset, cum fuisset voluptua percipitur eu."
+			},
+			{
+				"company": "Towson University",
+				"title": "Residence Life Coordinator",
+				"years": "January 2014 - January 2017",
+				"description": "Lorem ipsum dolor sit amet, at eripuit principes eum, usu falli maiestatis no, mel ut melius tractatos scribentur. Mea meis intellegam mediocritatem ne. Ea pro case interesset deterruisset, cum fuisset voluptua percipitur eu."
+			}
+		],
+		"skills": [
+			{
+				"name": "HTML",
+				"level": "93%"
+			},
+			{
+				"name": "CSS",
+				"level": "85%"
+			},
+			{
+				"name": "JavaScript",
+				"level": "82%"
+			},
+			{
+				"name": "Sass",
+				"level": "77%"
+			},
+			{
+				"name": "jQuery",
+				"level": "86%"
+			},
+			{
+				"name": "React.js",
+				"level": "76%"
+			},
+			{
+				"name": "Node.js",
+				"level": "65%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Photography",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "",
+				"modal": "#modal-01"
+			},
+			{
+				"title": "Photography",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "",
+				"modal": "#modal-01"
+			},
+			{
+				"title": "Photography",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "",
+				"modal": "#modal-01"
+			},
+			{
+				"title": "Photography",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "",
+				"modal": "#modal-01"
+			},
+			{
+				"title": "Photography",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "",
+				"modal": "#modal-01"
+			},
+			{
+				"title": "Photography",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "",
+				"modal": "#modal-01"
+			},
+			{
+				"title": "Photography",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "",
+				"modal": "#modal-01"
+			},
+			{
+				"title": "Photography",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "",
+				"modal": "#modal-01"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "Lorem ipsum dolor sit amet, at eripuit principes eum, usu falli maiestatis no, mel ut melius tractatos scribentur. Mea meis intellegam mediocritatem ne. Ea pro case interesset deterruisset, cum fuisset voluptua percipitur eu.",
+				"user": "Bill Clinton"
+			},
+			{
+				"text": "Lorem ipsum dolor sit amet, at eripuit principes eum, usu falli maiestatis no, mel ut melius tractatos scribentur. Mea meis intellegam mediocritatem ne. Ea pro case interesset deterruisset, cum fuisset voluptua percipitur eu.",
+				"user": "Barak Obama"
+			}
+		]
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -107,7 +107,7 @@ class Portfolio extends Component {
                      </a>
                   </div>
           		</div>
-               <div classsName="columns portfolio-item">
+               <div className="columns portfolio-item">
                   <div className="item-wrap">
                      <a href="#modal-08" title="">
                         <img alt="" src="images/portfolio/retrocam.jpg"/>

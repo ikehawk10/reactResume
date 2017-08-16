@@ -10,7 +10,14 @@ import Testimonials from "./Components/Testimonials"
 
 
 class App extends Component {
+  constructor(props){
+    super(props);
+    this.state = {
+      foo: "bar"
+    }
+  }
   render() {
+    console.log(this.state.foo);
     return(
       <div className="App">
         <Header />
