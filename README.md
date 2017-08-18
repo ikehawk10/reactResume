@@ -1,2 +1,2 @@
 # reactResume
-A web-based version on my resume built with React.
+A portfolio/resume template built in React with dynamic data generated from a local JSON file.
