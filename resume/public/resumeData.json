@@ -117,13 +117,58 @@
 	"portfolio": {
 		"projects": [
 			{
-				"title": "Photography",
+				"title": "JavaScript",
 				"description": "",
 				"category": "CSS",
 				"tags": "Design, Styles",
 				"image": "",
-				"url": "",
+				"url": "coffee.jpg",
 				"modal": "#modal-01"
+			},
+			{
+				"title": "CSS",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "console.jpg",
+				"modal": "#modal-02"
+			},
+			{
+				"title": "Design",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "farmerboy.jpg",
+				"modal": "#modal-03"
+			},
+			{
+				"title": "React",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "into-the-light.jpg",
+				"modal": "#modal-04"
+			},
+			{
+				"title": "Ecommerce",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "judah.jpg",
+				"modal": "#modal-05"
+			},
+			{
+				"title": "Startup",
+				"description": "",
+				"category": "CSS",
+				"tags": "Design, Styles",
+				"image": "",
+				"url": "origami.jpg",
+				"modal": "#modal-06"
 			},
 			{
 				"title": "Photography",
@@ -131,62 +176,17 @@
 				"category": "CSS",
 				"tags": "Design, Styles",
 				"image": "",
-				"url": "",
-				"modal": "#modal-01"
+				"url": "retrocam.jpg",
+				"modal": "#modal-07"
 			},
 			{
-				"title": "Photography",
+				"title": "Consulting",
 				"description": "",
 				"category": "CSS",
 				"tags": "Design, Styles",
 				"image": "",
-				"url": "",
-				"modal": "#modal-01"
-			},
-			{
-				"title": "Photography",
-				"description": "",
-				"category": "CSS",
-				"tags": "Design, Styles",
-				"image": "",
-				"url": "",
-				"modal": "#modal-01"
-			},
-			{
-				"title": "Photography",
-				"description": "",
-				"category": "CSS",
-				"tags": "Design, Styles",
-				"image": "",
-				"url": "",
-				"modal": "#modal-01"
-			},
-			{
-				"title": "Photography",
-				"description": "",
-				"category": "CSS",
-				"tags": "Design, Styles",
-				"image": "",
-				"url": "",
-				"modal": "#modal-01"
-			},
-			{
-				"title": "Photography",
-				"description": "",
-				"category": "CSS",
-				"tags": "Design, Styles",
-				"image": "",
-				"url": "",
-				"modal": "#modal-01"
-			},
-			{
-				"title": "Photography",
-				"description": "",
-				"category": "CSS",
-				"tags": "Design, Styles",
-				"image": "",
-				"url": "",
-				"modal": "#modal-01"
+				"url": "girl.jpg",
+				"modal": "#modal-08"
 			}
 		]
 	},

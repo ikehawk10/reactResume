@@ -23,23 +23,19 @@ class Resume extends Component {
       })
       var work = this.props.data.work.map(function(job){
          return (
-            <div className="row item">
-
+            <div key={job.years} className="row item">
                <div className="twelve columns">
-
                   <h3>{job.company}</h3>
                   <p className="info">{job.title} <span>&bull;</span> <em className="date">{job.years}</em></p>
                   <p>{job.description}</p>
-
                </div>
-
             </div>
          )
       });
 
       var skills = this.props.data.skills.map(function(skill){
          var className= "bar-expand "+skill.name.toLowerCase();
-         return <li key={skill.name}><span style={{width:skill.level}} className={className}></span><em>{skill.name}</em></li>
+         return <li key={skill.name}><span style={{width:skill.level}} className={className}></span><em>{skill.n}</em></li>
       });
    }
     return(
